@@ -6,9 +6,9 @@ _Front-end developer_
 
 ## Contacts
 
-Mobile number: +48739453379
-Email: demianchukliubomyr@gmail.com
-GitHub: <https://github.com/liubomyr86>
+Mobile number: +48739453379  
+Email: demianchukliubomyr@gmail.com  
+GitHub: <https://github.com/liubomyr86>  
 
 ---
 
@@ -53,9 +53,9 @@ level of web developing technologies.
 
 ## Education
 
-2008-2011
-_Computerized control systems and automation_
-**Ivano-Frankivsk National Technical University of Oil and Gas**
+2008-2011  
+_Computerized control systems and automation_  
+**Ivano-Frankivsk National Technical University of Oil and Gas**  
 
 ---
 
