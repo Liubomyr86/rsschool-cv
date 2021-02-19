@@ -20,3 +20,46 @@ nimble-witted and a proven team player. Being a fast learner will quickly get me
 level of web developing technologies.
 
 ---
+
+## Skills
+
+- HTML5
+- CSS3
+- SCSS
+- Java Script
+- Git
+- Webpack
+
+---
+
+## Code Samples
+
+```
+    function areArraysSame(a, b) {
+      if (a.length !== b.length) {
+            return false;
+      }
+
+      for (let i = 0; i < a.length; i++) {
+        if (a[i] !== b[i]) {
+            return false;
+        }
+      }
+      return true;
+    }
+```
+
+---
+
+## Education
+
+2008-2011
+_Computerized control systems and automation_
+**Ivano-Frankivsk National Technical University of Oil and Gas**
+
+---
+
+## Language Proficiency
+
+- English: A2
+- Polish : A2
