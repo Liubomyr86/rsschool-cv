@@ -466,19 +466,19 @@ h2 {
 }
 
 .ico_phone {
-  background-image: url("../img/icons/phone.svg");
+  background-image: url("img/icons/phone.svg");
   width: 14px;
   height: 14px;
 }
 
 .ico_mail {
-  background-image: url("../img/icons/mail.svg");
+  background-image: url("img/icons/mail.svg");
   width: 12px;
   height: 11px;
 }
 
 .ico_github {
-  background-image: url("../img/icons/github.svg");
+  background-image: url("img/icons/github.svg");
   width: 18px;
   height: 18px;
 }
@@ -525,7 +525,7 @@ h2 {
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  background-image: url("../img/header.png");
+  background-image: url("img/header.png");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -696,7 +696,7 @@ pre {
   justify-content: center;
   flex-wrap: wrap;
   min-height: 180px;
-  background-image: url("../img/footer.png");
+  background-image: url("img/footer.png");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
